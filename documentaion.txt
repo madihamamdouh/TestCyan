@@ -1,0 +1,246 @@
+Microsoft 365 Copilot Learning & Adoption 
+Get the most out of Copilot in Word, Excel, PowerPoint, Outlook, and Teams with ease and confidence.
+++++++++++++++++++++++++++++++++
+Our expert team provides a tailored training helping enterprises seamlessly integrate Microsoft 365 Copilot into their daily workflows. Through hands-on workshops and expert-led sessions, employees will learn how to leverage AI-driven tools within Microsoft 365 Word, PowerPoint, Excel, Outlook, and Teams to enhance productivity, automate tasks, and streamline operations.
+
+
+•	Copilot in Word 
+Using Copilot to write, edit, summarize, and format content efficiently, which will save time and enhance productivity.
+Video: Multiple sources, one cohesive document - Microsoft 365 Copilot in Word makes it possible
+
+•	Copilot in Excel 
+Using Copilot to analyse data, generate insights, automate calculations, and create visualizations which will make data management faster and smarter.
+Video: Turn everyday spreadsheets into actionable insights with Microsoft 365 Copilot in Excel
+
+•	Microsoft 365 Copilot in PowerPoint 
+Using Copilot to create, design, and enhance presentations by generating slides, summarizing content, and improving visuals which will make presentations faster and more engaging.
+Video: Microsoft 365 Copilot in PowerPoint | Narrative builder
+
+•	Microsoft 365 Copilot in Outlook
+Using Copilot to writ emails, summarize threads, suggest replies, and manage your inbox, which will make communication faster and more efficient.
+Video: Copilot in Outlook | Draft effective emails
+
+•	Microsoft 365 Copilot in Teams 
+Using Copilot to summarize meetings, generate action items, draft messages, and streamline collaboration which will make teamwork more productive and efficient.
+Video: Stay focused in an action-packed meeting with Microsoft 365 Copilot in Teams
+
+
+1.	Assessment & Consultation – Understand business needs and existing workflows.
+2.	Customized Training Plan – Design a tailored learning program for teams.
+3.	Workshops & Hands-on Training – Interactive sessions to build practical skills.
+4.	Guided Implementation – Support teams in integrating Copilot into daily tasks.
+---------------------------------------------------------
+
+Services - Dynamics 365 Copilot Skills Development PAGE
++++++++++++++++++++++++++++++++
+Home > our services > Dynamics 365 Copilot Skills Development
+
+You will learn
+The training will cover
+Dynamics 365 Sales
+How We Help 
+We train sales teams how to use Copilot to track leads, suggest follow-ups, and even draft emails and proposals automatically. 
+Expected Benefits
+✔ Faster deal closures.
+✔ Less manual work, Copilot writes emails, meeting notes, and summaries.
+✔ More time to build relationships and close more sales.
+----------------------------------
+Dynamics 365 Customer Service
+
+How We Help 
+We show customer service teams how to use Copilot to respond faster, suggest answers, and even automate responses. We also help set up custom AI assistants to handle common questions, reducing the workload on support agents.
+Expected Benefits
+✔ Quicker responses and happier customers.
+✔ AI helps handle routine tasks, so agents can focus on complex issues.
+✔ Reduced waiting times with automated self-service options.
+ 
+Dynamics 365 Finance 
+How We Help:
+We train finance teams to use Copilot for financial reporting, predicting cash flow, and automating tasks like invoice processing and approvals. This means fewer errors and more time for strategic planning.
+Expected Benefits
+✔ Accurate financial insights to make better decisions.
+✔ Less manual work, Copilot helps with approvals and reports.
+✔ Better risk management with AI-powered predictions.
+ 
+Dynamics 365 Supply Chain 
+How We Help:
+We show supply chain teams how to use Copilot for inventory tracking, predicting demand, and automating supply chain workflows. This means fewer delays and better stock management.
+Expected Benefits
+✔ Fewer stock shortages and supply chain disruptions.
+✔ Automated tracking and reporting for better efficiency.
+✔ Smarter decision-making with AI-driven forecasts.
+Dynamics 365 Human Resources
+How We Help:
+We help HR teams use Copilot to automate employee requests, policy guidance, and onboarding. We also assist in setting up custom HR self-service AI assistants to handle routine HR inquiries.
+Expected Benefits
+✔ Faster HR processes—employees get answers instantly.
+✔ Less paperwork and manual work for HR teams.
+✔ Better employee satisfaction.
+
+ 
+Dynamics 365 Marketing
+How We Help:
+We train marketing teams on how to use Copilot to generate engaging content, personalize customer outreach, and analyse campaign performance.  
+Expected Benefits
+✔ Faster, smarter marketing with AI-generated content.
+✔ Personalized messaging that improves engagement.
+✔ Data-driven insights to improve marketing results.
+
+Steps & Process
+
+1.	Assessment & Consultation 
+Analyse business needs and current workflows to identify key training areas.
+2.	Customized Training Plan
+Develop a tailored learning program that aligns with team goals and business objectives.
+3.	Workshops & Hands-on Training
+Conduct interactive sessions, providing employees with practical experience using Dynamics 365 Copilot.
+4.	Guided Implementation
+Offer step-by-step support in integrating Copilot into daily tasks and business processes.
+5.	Post-Training Support
+Provide ongoing assistance and resources for continuous learning and Copilot adoption.
+6.	Evaluation & Feedback
+Collect feedback and measure the impact of the training to ensure effectiveness.
+
+
+Benefit Analysis
+•	Sales Boost: 9.4% 
+•	Operational Cost Savings: 20%.
+•	Increased Revenue: 6%.
+•	Faster Onboarding: 25%.
+
+
+
+Expected benefit 
+
+• Efficiency Boost -  Automate repetitive tasks and save time.
+• Increased Productivity – Focus on high-value tasks instead of manual work.
+• Smarter Decision-Making – Use data-driven insights to make better, faster decisions.
+• Cost Reduction – Lower operational costs by streamlining processes.
+• Improved Collaboration – Foster better teamwork through enhanced communication and data sharing.
+
+
+
+-----------------------------------------------
+
+
+Copilot Employee Self-Service Agent page
++++++++++++++++++++++++++++++++
+Home > our services > Copilot Employee Self-Service Agent
+
+.
+The Copilot Employee Self-Service Agent is an HR AI-driven virtual assistant integrated within Microsoft 365, 
+designed to help employees quickly access information, 
+submit requests, and resolve common queries such as:
+•	How do I apply for leave?
+•	What is my vacation balance? 
+•	Can I get a copy of my payslip?
+•	What’s the company’s remote work policy?
+•	How do I update my personal information?
+
+Our expert team will work closely with your organization to implement this solution effectively, streamlining HR processes while reducing administrative workloads and improve employee satisfaction.
+Video: Microsoft 365 Copilot | Introducing the Employee Self-Service Agent
+
+Steps & Process
+1.	Assessment & Discovery
+Analyse HR needs and current processes to identify key automation areas.
+2.	Custom Copilot Design
+Develop a tailored Copilot agent to handle employee queries, leave management, and policy assistance.
+3.	Integration & Deployment
+Seamlessly integrate the Copilot agent with existing HR systems and platforms.
+4.	Employee Training & Adoption
+Conduct hands-on workshops to ensure HR teams and employees can efficiently use the agent.
+5.	Ongoing Support & Optimization
+Provide continuous support, gather feedback, and optimize the agent for enhanced performance.
+6.	Monitoring & Improvement
+Regularly evaluate functionality and make improvements to maximize efficiency and user satisfaction.
+
+Benefits analysis
+•	Faster Onboarding: 25%.
+•	Valuable assistive: 91%  
+•	Supportive rate:  85% 
+
+
+Key Benefits:
+•	Reduces Administrative Workload: Handles repetitive tasks, freeing up HR teams for more strategic work.
+•	Enhances Operational Efficiency: Provides quick and accurate responses to employee requests.
+•	Improves Employee Satisfaction: Ensures fast access to information and support.
+•	Boosts Overall Productivity: Allows HR teams to focus on employee engagement and development.
+----------------------------------------------------------------------------------------------------------------------------
+
+
+
+Custom Copilot Agent 
+Supercharge Your Business Tasks
+++++++++++++++++++++++++++++++++ 
+
+What is Custom Copilot Agent? https://youtu.be/WVn57PXoFPE
+Tailor AI-powered Copilot fits your business needs.
+
+Imagine you have your very own personal assistant that takes care of everyday business tasks. Our expert team is here to create and customize this assistant to fit your unique business needs, boost productivity, streamline operations, and enhance employee and customer experiences. You can use this assistant across various platforms, including websites, apps, and within Microsoft 365 tools like Teams and Outlook.
+
+The Process of Creating Your Microsoft custom Copilot 🚀
+
+1.	Collaborate with Stakeholders: Gather input from key teams to align the Copilot with business needs.
+2.	Define Key Topics: Identify the most relevant use cases and interactions for your Copilot.
+3.	Build & Configure: Develop a custom Copilot tailored to your workflows and goals.
+4.	Add Smart Topics: Enhance it with AI-powered topics for seamless conversations.
+5.	Test & Refine: Ensure accuracy and effectiveness through real-world testing.
+6.	Deploy Across Channels: Launch your Copilot on Teams, websites, and other platforms.
+7.	Optimize & Improve: Continuously update and enhance your Copilot for maximum impact.
+
+
+
+
+
+
+
+-----------------------------------------------------------------------------------------------
+
+
+Join our Growing Team
+We’re expanding and looking for skilled professionals to be part of our journey. Explore new career opportunities with us today!
++++++++++++++++++++++++++
+
+Copilot Specialist
+
+Job Description:
+
+The Copilot Specialist focuses on educating employees and teams on how to effectively use Microsoft 365 Copilot. This role involves designing training programs, conducting workshops, and providing continuous support to help teams integrate Copilot into their daily workflows.
+
+Responsibilities:
+•	Design and deliver interactive Microsoft 365 Copilot training programs for businesses.
+•	Create guides, tutorials, and knowledge resources for end users.
+•	Conduct live training sessions, webinars, and hands-on workshops.
+•	Train teams on how to integrate Copilot into daily workflows.
+•	Provide one-on-one coaching to help users overcome learning barriers.
+•	Gather user feedback to improve training materials and adoption strategies.
+
+Qualifications:
+•	Experience in Microsoft 365 adoption.
+•	Strong understanding of Microsoft 365 apps and AI-powered productivity tools.
+•	Experience in creating and delivering engaging training programs.
+•	Ability to communicate complex topics in a simple and engaging manner.
+•	Passion for helping teams embrace new technology and improve efficiency.
+•	Excellent communication and presentation skills to engage with stakeholders.
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Copilot Implementation Consultant
+Job Description:
+The Microsoft 365 Copilot Consultant is responsible for guiding businesses implement and maximize the benefits of Microsoft Copilot including involves assessing business needs, deploying a tailor Copilot solution, improve productivity, and streamline operations 
+
+Responsibilities
+•	Working closely with clients to understand their business needs and design tailored Copilot implementation strategies.
+•	Providing expert guidance on how to use Copilot for task automation, document creation, and data insights.
+•	Configuring and customizing Copilot to align with business workflows.
+•	Collaborating with IT teams to integrate Copilot with existing workflows, data sources, and third-party applications.
+•	Ensure data security and compliance within Copilot implementations.
+•	Troubleshoot issues and provide ongoing support & optimization.
+•	Train end-users on Copilot’s features and best practices.
+•	Stay updated on Copilot advancements and recommend new features to clients.
+
+Qualifications:
+•	Experience in Microsoft 365 consulting, IT solutions, or AI-powered workplace tools. 
+•	Strong expertise in Microsoft 365 applications and cloud-based solutions.
+•	Knowledge of AI automation and how Copilot enhances business productivity.
+•	Problem-solving skills with the ability to diagnose and resolve technical issues.
+•	Excellent communication and presentation skills to engage with stakeholders.
