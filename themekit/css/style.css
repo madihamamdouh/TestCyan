@@ -5573,3 +5573,15 @@ Inverted responsive classes
         display: none;
     }
 }
+
+.Nav-Btn {
+    background-color: #03BFCB !important;
+    border-color: #03BFCB !important;
+    color: white !important;
+    height: 30px !important;
+    /* top: 0px; */
+    padding-top: 3px !important;
+    text-transform: none !important;
+    text-align: center !important;
+    line-height: 27px !important;
+}
